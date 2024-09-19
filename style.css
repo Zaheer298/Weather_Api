@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(to bottom , #0f0c29 , #302b63 , #24243e);
+}
+.App{
+    background: #0ef;
+    width: 500px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+  margin-top: 310px;
+ font-size: 25px;
+ box-sizing: border-box ;
+ box-shadow: 5px 20px 50px rgb(89, 0, 255);
+}
+.App input{
+    padding: 10px;
+  border: 2px solid #000;
+  border-radius: 10px;
+    width: 300px;
+}
+button{
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 10px;
+     
+}
